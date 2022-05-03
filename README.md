@@ -6,7 +6,7 @@
 
 Curiosidades sobre mim: 
 
-Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc, atualmente tenho uma hambúrgueria de lanches artesanais 🍔 na vila prudente(com mais dois sócios) e estou migrando para area de tecnologia.
+Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc, atualmente tenho uma hambúrgueria de lanches artesanais 🍔 na Vila Prudente-SP(com mais dois sócios) e estou migrando para area de tecnologia.
 
  
 Estou em busca de uma oportunidade para entrar no mercado Front-end 🤗
