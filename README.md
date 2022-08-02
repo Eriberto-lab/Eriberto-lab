@@ -28,5 +28,3 @@ Estou em busca de uma oportunidade para entrar no mercado Front-end 🤗
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eriberto-lab&langs_count=8)](https://github.com/Eriberto-lab/github-readme-stats)
 
-
-Eita esqueci meu Linkdin aqui de novo, que descuido rsrs...😳 👉[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈
