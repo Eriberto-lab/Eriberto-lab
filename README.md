@@ -9,8 +9,6 @@ Curiosidades sobre mim:
 Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc, atualmente tenho uma hambúrgueria de lanches artesanais 🍔 na Vila Prudente-SP(com mais dois sócios) e estou migrando para area de tecnologia.
 
  
-Estou em busca de uma oportunidade para entrar no mercado Front-end 🤗
-
 🚧PS: Meu perfil e portifolio ainda estão em construção já já teremos muitos projetos legais por aqui. 👷 🚧
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈 Esse é meu Linkedin.
