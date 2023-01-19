@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eriberto 🖐️
 
 #### Experiência com HTML, CSS e Javascript e atualmente estou me aprofundando mais em React.js.
-#### Meu objetivo é ser um desenvolvedor FullSctack então ainda vou estudar bastante( coloca bastante nisso rsrs) e na minha mira 🎯 já está o Node.js, Mongodb entre outras...
+
 #### Inglês intermediário/avançado (listening, writing, reading and pronunciation in training 🤕), Scrum, POO.
 
 Curiosidades sobre mim: 
