@@ -1,15 +1,13 @@
 ### Olá! Eu sou o Eriberto 🖐️
 
-#### Experiência com HTML, CSS e Javascript e atualmente estou me aprofundando mais em React.js.
+#### Desenvolvedor de software qualificado com experiência em HTML, CSS, JavaScript, React.js, Redux, Context API, React Hooks, testes com Jest/RTL, MySQL. 
 
-#### Inglês intermediário/avançado (listening, writing, reading and pronunciation in training 🤕), Scrum, POO.
+Familiarizado com Scrum, direito empresarial e empreendedorismo. Fortes habilidades de resolução de problemas e um aprendizado rápido. 
 
 Curiosidades sobre mim: 
 
-Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc, atualmente tenho uma hambúrgueria de lanches artesanais 🍔 na Vila Prudente-SP(com mais dois sócios).
+Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc, estou me aprofundando nos estudos de nodeJs, typescript e outras tecnologias back-end.
 
- 
-🚧PS: Meu perfil e portifolio ainda estão em construção já já teremos muitos projetos legais por aqui. 👷 🚧
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈 Esse é meu Linkedin.
 #
