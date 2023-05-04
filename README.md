@@ -10,7 +10,7 @@ Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de e
 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈 Esse é meu Linkedin.
-#
+### 📧 eribertosflima@gmail.com
 
 ![Eriberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Eriberto-lab&show_icons=true&theme=radical)
 #
