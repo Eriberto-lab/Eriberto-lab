@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Eriberto 🖐️
 
-#### Desenvolvedor de software qualificado com experiência em HTML, CSS, JavaScript, React.js, Redux, Context API, React Hooks, testes com Jest/RTL, MySQL. 
+#### Um Dev aficionado por soluções inovadoras! 🚀
 
-Familiarizado com Scrum, direito empresarial e empreendedorismo. Fortes habilidades de resolução de problemas e um aprendizado rápido. 
+Meu kit de ferramentas: HTML, CSS, JavaScript, React.js, Redux, Docker, Node.js, C#, .NET e SQL. 💻
 
-Curiosidades sobre mim: 
+Misturando código com uma pitada de criatividade! 🎨
 
-Já atuei no âmbito de assessoria empresarial, com abertura e encerramento de empresas, registro em órgãos de classe e etc.
+Vamos construir algo incrível juntos! 😄🌟
 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈 Esse é meu Linkedin.
