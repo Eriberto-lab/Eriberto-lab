@@ -2,11 +2,9 @@
 
 #### Um Dev aficionado por soluções inovadoras! 🚀
 
-Meu kit de ferramentas: HTML, CSS, JavaScript, React.js, Redux, Docker, Node.js, C#, .NET e SQL. 💻
+Meu kit de ferramentas: HTML, CSS, JavaScript, React.js, Redux, Docker, Node.js, C#, .NET e SQLe Flutter 💻
 
-Misturando código com uma pitada de criatividade! 🎨
 
-Vamos construir algo incrível juntos! 😄🌟
 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriberto-lima/) 👈 Esse é meu Linkedin.
